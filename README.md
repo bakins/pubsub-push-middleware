@@ -1,5 +1,7 @@
 # pubsub-push-middleware
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/bakins/pubsub-push-middleware.svg)](https://pkg.go.dev/github.com/bakins/pubsub-push-middleware)
+
 Helper for handling [GCP pubsub push messages](https://cloud.google.com/pubsub/docs/push) in Go HTTP servers.
 
 ## Why?
